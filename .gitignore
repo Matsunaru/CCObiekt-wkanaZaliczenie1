@@ -9,6 +9,11 @@
 *.user
 *.userosscache
 *.sln.docstates
+Obiektowka na zaliczenie.vcxproj.filters
+Obiektowka na zaliczenie.vcxproj
+Obiektowka na zaliczenie.vcxproj.user
+Obiektowka na zaliczenie.vcxproj.sln
+.conan
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
