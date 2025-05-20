@@ -15,7 +15,7 @@ class Kolo : public Figura
 {
     void rysuj() override //nadpisanie metody rysuj przez koło
     {
-        cout << "To jest kolo: () " << endl; //wyświetlenie napisu "To jest kolo: () "
+        cout << "To jest kolo: ( ) " << endl; //wyświetlenie napisu "To jest kolo: () "
     }
 };
 //klasa Kwadrat dziedziczona po figura
@@ -23,7 +23,7 @@ class Kwadrat : public Figura
 {
     void rysuj() override //nadpisanie metody rysuj przez Kwadrat
     {
-        cout << "To jest Kwadrat: [] " << endl; //wyświetlenie napisu "To jest kwadrat: []"
+        cout << "To jest Kwadrat: [ ] " << endl; //wyświetlenie napisu "To jest kwadrat: []"
     }
 };
 //klasa Trojkat dziedziczona po figura
